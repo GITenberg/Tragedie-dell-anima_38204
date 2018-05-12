@@ -1,0 +1,28 @@
+_repo: Tragedie-dell-anima_38204
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38204-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bracco, Roberto
+    birthdate: 1861
+    deathdate: 1943
+    gutenberg_agent_id: '37422'
+    url: http://www.gutenberg.org/2009/agents/37422
+    wikipedia: http://it.wikipedia.org/wiki/Roberto_Bracco
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2011-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38204'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian drama'
+- !lcc 'PQ'
+title: Tragedie dell'anima
+url: http://www.gutenberg.org/ebooks/38204
